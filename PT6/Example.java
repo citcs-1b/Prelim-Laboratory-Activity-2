@@ -14,7 +14,7 @@ public class Example {
     	System.out.println("Student Information");
     	System.out.println("Lastname: " + Lastname);
     	System.out.println("Firstname: " + Firstname);
-    	System.out.println("MiddleInitial: " + MiddleInitial);
+    	System.out.println("Middle Initial: " + MiddleInitial);
     	System.out.println("Age: " + Age);
     	System.out.println("Course: " + Course);
     	System.out.println("Year: " + Year);
